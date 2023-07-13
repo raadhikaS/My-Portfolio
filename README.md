@@ -1,5 +1,4 @@
-# My Porfolio using HTML,CSS and JS
-### I have created a Responsive Portfolio Website 
+# I have created a Responsive Portfolio Website 
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
